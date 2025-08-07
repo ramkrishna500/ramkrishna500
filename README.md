@@ -7,10 +7,7 @@
 
 <div align="center">
 <p align="center" style="font-size:22px;margin-top:0;border:none">
-    
-<div>
-    <img src="https://komarev.com/ghpvc/?username=Winter-Soren&label=Profile%20views&color=1E90FF&style=flat" alt="Winter-Soren" style="align:center" />
-</div>
+
 </p>
 </div>
 
@@ -23,7 +20,6 @@
         <li style="font-size:18px">🌟 Welcome to my captivating journey as a budding developer & researcher!</li>
         <li style="font-size:18px">🧱 I love building stuff and thrive on new opportunities and challenges.</li>
         <li style="font-size:18px">🌐 Open to collaborating with like-minded intellectuals and sharing skills with the community.</li>
-        <li style="font-size:18px">💻 I am Quantum Machine Learning Researcher and Full Stack Developer, but I'm always exploring new fields and experimenting.</li>
         <li style="font-size:18px">🎉 Fun fact: I'm constantly pushing the boundaries of what's possible while leaving room for excitement and fun.</li>
     </ul>
 <br>
@@ -54,29 +50,20 @@
 <h3>🌐 Web Dev</h3>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183577242-5081ea3b-7a3c-419b-9b81-014bf32e2e69.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
 
 <h3>📜 JavaScript</h3>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
-<img height="50" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
+
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
 
-<h3>🐍 Python</h3>
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
-<img height="50" src="https://static.djangoproject.com/img/logos/django-logo-negative.png">
-<img height="70" src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png">
 
 <h3>💾 Database</h3>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
 
 <h3>🤿 DevOps</h3>
@@ -84,20 +71,6 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png">
-</div>
-
-<h2>My Stats: 📊</h2>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winter-Soren&layout=compact&theme=cobalt)
-
-![ThunderBolt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winter-Soren&count_private=true&show_icons=true&theme=cobalt&border_color=ayu-mirage)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Winter-Soren&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[2021]&theme=cobalt&background=193549)](https://git.io/streak-stats)
-
-<br>
-    
 </div>
 
 <img src="the-end.gif" alt="Footer Image" style="width: 100%; height: auto;">
