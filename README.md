@@ -45,7 +45,6 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183049399-2a3c5d95-f544-4421-b40d-806c38b4adfd.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png">
 
 <h3>🌐 Web Dev</h3>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png">
